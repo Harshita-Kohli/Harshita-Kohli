@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harshita-Kohli
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Problem Solving, HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/harshita-kohli-4499b91b6/ 
 
 
