@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshita-Kohli
+- 👋 Hi, I’m Harshita Kohli
 - 👀 I have a great interest in Web Development
 - 🌱 I’m currently learning Problem Solving, HTML, CSS, Javascript
 - 💎 I love to blend my skills and creativity to create some real-world projects that can help the world in a huge way! 
