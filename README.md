@@ -23,9 +23,9 @@
 
 - 💬 Ask me about **DSA, JS, Frontend Development, Plants (Well I love gardening!), Music and Books**
 
-- 📫 Let's connect on LinkedIn **harshitakohli2016@gmail.com**
+- 📫 Let's connect on LinkedIn **https://www.linkedin.com/in/harshita-kohli-4499b91b6/**
 
-- ⚡ Fun fact about me **I am a Singer by passion and love to have jamming sessions!**
+- ⚡ Fun fact about me **I am a Singer by passion and love to perform in jamming sessions!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
