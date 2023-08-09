@@ -33,7 +33,7 @@
   <a href="https://twitter.com/harshitakohli20" target="blank"><img align="center" src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" alt="harshitakohli20" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/harshita-kohli-4499b91b6/" target="blank"><img align="center" src="https://media.giphy.com/media/0R7mnx1ZvrBG42PbNV/giphy.gif" alt="https://www.linkedin.com/in/harshita-kohli-4499b91b6/" height="40" width="50" /></a>
   <a href="https://leetcode.com/harshitakohli/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=avif&w=256" alt="https://leetcode.com/harshitakohli/" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/harshitakohli2016/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harshitakohli2016/" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/harshitakohli2016/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" alt="https://auth.geeksforgeeks.org/user/harshitakohli2016/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,10 +45,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="javascript" width="40" height="40"/> </a>  
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwindCSS" width="40" height="40"/> </a> 
-  
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="react" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/> </a> </p>
-
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-kohli&" alt="harshita-kohli" /></p>
 
