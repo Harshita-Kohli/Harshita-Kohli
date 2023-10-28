@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Harshita Kohli</h1>
 
-<h3 align="center">👀 I have a Great Interest in Web Development and APIs </h3>
+<h3 align="center">👀 A Web Development and API Enthusiast!! </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshita-kohli&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-kohli" /> </p>
 
